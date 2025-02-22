@@ -1,2 +1,2 @@
-# talktophp
+# TalkToPHP
 An elegant PHP framework
